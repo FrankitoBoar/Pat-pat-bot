@@ -27,7 +27,7 @@ client.on('message', (message) => {
 });
 
 client.on('message', (message) => {
-  if(message.content.startsWith(prefix + 'greenslaves')) {
+  if(message.content.startsWith(prefix + 'protocolo greenslaves')) {
     message.channel.send(`O-oh, wait wait wait, NATH?! OMG que hype por conocerte sweaty, me presento, soy sugar, frankito me creo en base a tu forma de hablar, aunqeu le cause dolores de cabezas en el proceso, estaba muy emocionada por conocerte y espero nos llevemos muy bien sweaty ^^!!`);
   }
 
