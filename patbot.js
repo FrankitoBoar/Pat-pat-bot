@@ -1,5 +1,5 @@
 //el codigo es un completo desastre, ten cuidado codeer, te vas a adentrar en la selva de la concha de la lora
-//pureba
+//aha
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const config = require("./config.json");
